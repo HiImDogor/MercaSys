@@ -1,0 +1,16 @@
+{
+  "name": "mercasys",
+  "version": "1.0.0",
+  "description": "Sistema de administración para minimarkets",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "node app.js"
+  },
+  "author": "Carlos Borquez",
+  "license": "MIT",
+  "dependencies": {
+    "ejs": "^6.0.1",
+    "express": "^5.2.1"
+  }
+}
